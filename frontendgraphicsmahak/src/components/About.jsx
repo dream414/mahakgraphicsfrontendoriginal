@@ -99,6 +99,7 @@ function About() {
 
           <div className="space-y-3 text-sky-700 leading-8 text-lg">
             <p>
+              Start With The Name Of ALLAH ALMIGHTY 💌
              When I started coding 💻, I had very little interest in designing 🎨. But as I explored web development 🌐, I realized that creative and visually appealing designs make projects more impactful and engaging ✨. Gradually, my interest turned into passion 🔥. I worked on posters, UI designs, and creative projects 🖌️, and when people appreciated my work, it boosted my confidence even more 💪. Today, designing is not just a skill for me — it is a way to express creativity 🌟, where I focus on uniqueness, balance, and user experience in every project.
 
 Whenever I work on designing 🎨, I feel like I am following in the footsteps of the person who has always been my ideal and who has inspired me 🌿. When I see myself today, I feel really proud that I have developed a strong passion and interest in designing ❤️.
