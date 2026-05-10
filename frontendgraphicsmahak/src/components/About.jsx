@@ -85,7 +85,7 @@ function About() {
         <div className="space-y-6">
 
           <div className="inline-block px-5 py-2 rounded-full bg-white/60 backdrop-blur-md border border-sky-200 text-sky-800 text-sm shadow-sm">
-            ✦ Professional Graphicss Designer
+            ✦ Professional Graphics Designer
           </div>
 
           <h2 className="text-2xl md:text-3xl font-bold text-sky-900 leading-tight">
