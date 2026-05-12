@@ -106,7 +106,7 @@ function Hero() {
             <div className="bg-white/5 backdrop-blur-2xl rounded-[38px] p-4 border border-white/10">
 
               <img
-                src="/hero.jpg"
+                src="/hero.png"
                 alt="Designer"
                 className="rounded-[30px] w-full max-w-md object-cover transition duration-700 hover:scale-105 cursor-pointer"
               />

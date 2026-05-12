@@ -69,11 +69,11 @@ function About() {
           
 
             {/* IMAGE */}
-            <div className="relative z-20 w-full h-full rounded-[28px] overflow-hidden">
+            <div className="relative z-20 w-full h-full rounded-[30px] overflow-hidden">
               <img
                 src="/about.png"
                 alt="Graphic Designer"
-                className="w-full h-full object-contain transition duration-500 hover:scale-110 cursor-pointer p-6"
+                className="w-full h-full object-contain border-4 border-cyan-300 transition duration-500 rounded-full rounded-ee-2xl ro hover:scale-110 cursor-pointer p-6"
               />
             </div>
 

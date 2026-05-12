@@ -105,7 +105,7 @@ function Contact() {
           {/* glass bg */}
           <div className="absolute pointer-events-none inset-0 bg-white/5 backdrop-blur-2xl border border-white/10 rounded-2xl" />
 
-          <div className="absolute w-[300px] h-[300px] bg-cyan-400/20 blur-[120px] rounded-full top-0 left-0" />
+          <div className="absolute pointer-events-none w-[300px] h-[300px] bg-cyan-400/20 blur-[120px] rounded-full top-0 left-0" />
 
           {/* ================= FORM ================= */}
           <form onSubmit={handleSubmit} className="space-y-5 relative z-10">
