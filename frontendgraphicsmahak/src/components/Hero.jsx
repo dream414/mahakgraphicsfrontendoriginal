@@ -87,10 +87,10 @@ function Hero() {
             </button>
 
             <a
-              href="#contact"
+              href="/graphic.cv.pdf"
               className="border border-cyan-300/30 bg-white/5 hover:bg-white/10 px-8 py-4 rounded-2xl text-white font-semibold backdrop-blur-md transition duration-500 hover:scale-105"
             >
-              Hire Me
+              Download CV
             </a>
 
           </div>
@@ -106,7 +106,7 @@ function Hero() {
             <div className="bg-white/5 backdrop-blur-2xl rounded-[38px] p-4 border border-white/10">
 
               <img
-                src="/hero.png"
+                src="/home.png"
                 alt="Designer"
                 className="rounded-[30px] w-full max-w-md object-cover transition duration-700 hover:scale-105 cursor-pointer"
               />
