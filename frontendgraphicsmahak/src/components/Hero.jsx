@@ -87,7 +87,7 @@ function Hero() {
             </button>
 
             <a
-              href="/graphic.cv.pdf"
+              href="/graphics.pdf"
               className="border border-cyan-300/30 bg-white/5 hover:bg-white/10 px-8 py-4 rounded-2xl text-white font-semibold backdrop-blur-md transition duration-500 hover:scale-105"
             >
               Download CV
