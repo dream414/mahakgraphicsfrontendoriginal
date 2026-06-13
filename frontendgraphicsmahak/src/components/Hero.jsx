@@ -137,7 +137,7 @@ function Hero() {
               </button>
 
               <img
-                src="/graphics.jpg"
+                src="./graphics.jpg"
                 className="w-[350px] md:w-[500px] rounded-2xl"
               />
 
